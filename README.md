@@ -44,11 +44,11 @@ This project is a **Weather Reporting and Prediction System** that gathers real-
    ```bash
    pip install -r requirements.txt
 
-4.**Run Flask Application:**
+4. **Run Flask Application:**
   ```bash
   python app.py
 
-5.**Train the Model:**
+5. **Train the Model:**
 Ensure your CSV dataset is properly formatted.
 
 6. **Run the script to train the Random Forest model:**
