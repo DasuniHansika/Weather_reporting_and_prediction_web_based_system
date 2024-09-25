@@ -45,7 +45,7 @@ This project is a **Weather Reporting and Prediction System** that gathers real-
    pip install -r requirements.txt
 
 4.  **Run Flask Application:**
-   
+    ```bash
    python app.py
 
 5.  **Train the Model:**
@@ -53,11 +53,12 @@ This project is a **Weather Reporting and Prediction System** that gathers real-
     Ensure your CSV dataset is properly formatted.
 
 6.  **Run the script to train the Random Forest model:**
+7.     ```bash
     python train_model.py
 
-7.  **Access the Web App:**
+8.  **Access the Web App:**
     Open your browser and navigate to http://localhost:5000 to view real-time weather data and predictions.
 
 ### Contributors:
-Nisal Basura Wickramasinghe
-Dasuni Hansika
+***Nisal Basura Wickramasinghe***
+***Dasuni Hansika***
