@@ -46,7 +46,7 @@ This project is a **Weather Reporting and Prediction System** that gathers real-
 
 4.  **Run Flask Application:**
     ```bash
-   python app.py
+    python app.py
 
 5.  **Train the Model:**
    
